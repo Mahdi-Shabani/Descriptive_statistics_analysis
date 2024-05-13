@@ -1,0 +1,12 @@
+
+Descriptive Statistics:
+
+Using the NumPy library encompasses all statistical information, including central tendency and dispersion indices.
+
+I utilized four functions: mean, standard deviation, min, and max for the heights of presidents.
+
+The describe function summarizes all quantitative features and prints them in a table.
+
+Finally, it plots the height distribution as a histogram.
+
+#Group By
